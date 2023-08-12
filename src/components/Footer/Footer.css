@@ -1,0 +1,13 @@
+.img-f {
+    filter: invert();
+}
+.img-f:hover {
+    filter: invert();
+}
+
+a {
+    cursor: pointer;
+}
+footer {
+    margin-top: 100px;
+}

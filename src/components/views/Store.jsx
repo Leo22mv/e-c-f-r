@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Store() {
   return (
-    <div>Store</div>
+    <div className='alert alert-danger flex justify-center font-extrabold'>Tienda en desarrollo</div>
   )
 }

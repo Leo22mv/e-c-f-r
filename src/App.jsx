@@ -10,6 +10,7 @@ import Contact from './components/views/Contact'
 function App() {
   return (
     <>
+    <div className="alert alert-danger m-0 rounded-none flex justify-center" id="InDevelopmentAlert"><b>Aplicación en desarrollo</b></div>
     <div>
       <h1>
         <Routes>
